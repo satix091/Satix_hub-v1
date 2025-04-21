@@ -24,7 +24,7 @@ function Script()
             game:GetService("StarterGui"):SetCore(
                 "SendNotification",
                 {
-                    Title = "Quasar Hub",
+                    Title = "satix Hub",
                     Text = "Execute after game load!",
                     Icon = "rbxthumb://type=AvatarHeadShot&id=" ..
                         game:GetService("Players").LocalPlayer.UserId .. "&w=180&h=180 true",
